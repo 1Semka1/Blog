@@ -1,0 +1,146 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed47189s",
+        "name": "Илья Кривоносов",
+        "email": "nnubila@bk.ru",
+        "password": "Ilya123890",
+        "admin": true,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471815",
+        "name": "Иван Иванов",
+        "email": "IvanIvanov133331@mail.ru",
+        "password": "b2C!9bmE",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471816",
+        "name": "Алина Петрова",
+        "email": "AlinaPetrova1576@mail.ru",
+        "password": "NSF-kQ7p",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471817",
+        "name": "Петр Сидоров",
+        "email": "PetrS1d0r0v1994@mail.ru",
+        "password": "*cr6Lydn",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471818",
+        "name": "Елена Козлова",
+        "email": "HelenaKozlova89654@mail.ru",
+        "password": "*V7&Ks6D",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471819",
+        "name": "Максим Зайцев",
+        "email": "MaxZayas1998@mail.ru",
+        "password": "$8^M_LfY",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471820",
+        "name": "Алексей Григорьев",
+        "email": "AlexGrig0r5467@mail.ru",
+        "password": "75gHX^Tj",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471821",
+        "name": "Ольга Михайлова",
+        "email": "OlgaMihaylovna43290765@mail.ru",
+        "password": "k2+HWHq^",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471822",
+        "name": "Дмитрий Кузнецов",
+        "email": "KuzDmitry120495@mail.ru",
+        "password": "K2vVmM^Z",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471823",
+        "name": "Семён Пономарёв",
+        "email": "SemPonomarev2000@mail.ru",
+        "password": "Zu+9*V$E",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471824",
+        "name": "Елена Петрова",
+        "email": "HelenaPetrova04111996@mail.ru",
+        "password": "RvJ-U2EC",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181f",
+        "name": "Анна Смирнова",
+        "email": "Anna7641231@mail.ru",
+        "password": "z&_r7VA8",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181r",
+        "name": "Иван Корнилов",
+        "email": "KornilovIvan190599@mail.ru",
+        "password": "89UhL^$d",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181t",
+        "name": "Анна Аксёнова",
+        "email": "AksenovaAnnusha333@mail.ru",
+        "password": "89UhL^$d",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181y",
+        "name": "Анна Бахтина",
+        "email": "BahtinaAnna290901@mail.ru",
+        "password": "89UhL^$d",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181i",
+        "name": "Денис Хавлин",
+        "email": "HaVlInDen17771@mail.ru",
+        "password": "89UhL^$d",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181o",
+        "name": "Евгений Макаров",
+        "email": "EvGenMakarov@mail.ru",
+        "password": "89UhL^$d",
+        "admin": false,
+        "licence": true
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed47181p",
+        "name": "Владимир Макаров",
+        "email": "VladimirMakarov@mail.ru",
+        "password": "89UhL^$d",
+        "admin": false,
+        "licence": true
+    }
+]
